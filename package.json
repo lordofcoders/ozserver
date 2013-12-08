@@ -10,6 +10,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Osman Ozdemir <oozdemir2704@gmail.com>",
-  "license": "BSD-2-Clause",
-  "devDependencies": {}
+  "license": "BSD-3 Clause",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lordofcoders/ozserver"
+  },
+  "bugs": {
+    "url": "https://github.com/lordofcoders/ozserver/issues"
+  }
 }
